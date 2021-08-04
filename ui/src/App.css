@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+button {
+  background-color: bisque;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+button:hover,
+button:active {
+  background-color: black;
+  color: wheat;
+}
+
+a {
+  display: block;
+  margin-top: 20px;
+}
